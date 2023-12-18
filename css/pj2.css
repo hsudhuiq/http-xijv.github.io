@@ -1,0 +1,53 @@
+/* CSS Document */
+#main h1{
+	border-bottom:2px #dbd2c9 solid;
+	width:88%;
+	font:35px/1.5em STXingkai；
+	margin:40px;
+}
+h1{color: #dbd2c9;}
+
+.lft_img{
+	float:left;
+	margin:10px 40px;
+}
+.lft_img img{
+	width:350px;
+	height:400px;
+}
+.rgt_txt{
+	width:480px;
+	height:200px;
+	float:left;
+	margin:20px 40px;
+	
+}
+.rgt_txt p,.lft_txt p{
+	font:21px/1.4em KaiTi;
+	margin-bottom:1.6em;
+	color: #dbd2c9;
+}
+
+.rgt_img{
+	float:right;
+	margin:10px 40px;
+}
+.rgt_img img{
+	width:350px;
+	height:400px;
+}
+.lft_txt{
+	width:480px;
+	height:200px;
+	float:left;
+	margin:20px 40px;
+}
+.clear{
+	clear:both;
+}
+
+#footer{
+	margin-top: 40px;
+	width: 100%;
+	padding: 0px
+}

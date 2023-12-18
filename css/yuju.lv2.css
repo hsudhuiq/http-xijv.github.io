@@ -1,0 +1,12 @@
+#main h2{
+     background:#DC0; font: 18x 黑体; margin: 40px 0px;padding: 8px 40px;}
+#box{position: relative; top: 0px; left: 0px
+padding: 1px;}
+#sidebar{  position:absolute;  top:-40px;  left:700px; background:#D6EA82;
+     width:300px; height:530px; }
+#maintxt{  width:700px;height:700px;color:white ; }
+#maintxt u1{  margin:30px 0px; list-style:none; }
+#maintxt u1 li{ margin-bottom:20px; }
+#maintxt p,#maintxt ol li{  font:16px/1.8em 宋体； margin-left:40px; }
+#maintxt o1{  margin:40px 20px; }
+#sidebar p{  margin:0px 20px 20px 40px; line-height:1.2em; }

@@ -1,0 +1,9 @@
+#main h1{ border-bottom:1.5px #dbd2c9 solid;width:90%;
+	font:50px/1.5em 楷体;margin:40px;color: #dbd2c9;}
+.lft_img{float:left;margin:-15px 40px;}
+.lft_img img{width:480px;height:350px;} 
+.rgt_txt{width:400px;height:200px;float:left;}
+.rgt_txt p,.lft_txt p{font:24px/1.2em 隶书;margin-bottom:0.8em;color: #dbd2c9;}
+.clear{clear:both;}
+a{color: #ffc600;text-decoration: none;}
+/*a{color: #0f59a4;text-decoration: none;}*/

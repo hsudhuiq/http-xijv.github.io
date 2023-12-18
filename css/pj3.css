@@ -1,0 +1,46 @@
+#main h1{
+	background:#dbd2c9;
+	width: 90%;
+	font:22px KaiTi;
+	margin:40px 0px;
+	padding:10px 10px;
+}
+#box{	
+	position:relative;
+	top:0px;
+	left:0px;
+	padding:1px;
+}
+#sidebar{
+	position:absolute;
+	top:0px;
+	left:700px;
+	background:#681414;
+	width:300px;
+	height:744px;
+}
+
+#maintxt{
+	width:700px;
+	height:700px;
+}
+#maintxt ul{
+	margin:30px 0px;
+	list-style:none;
+}
+
+#maintxt p{
+	font:18px/1.8em KaiTi;
+	margin-left:40px;
+	color: #dbd2c9;
+	/*align-content: center;*/
+}
+
+#sidebar p{
+	margin:0px 20px 20px 40px;
+	line-height:1.2em;
+
+	font:20px/1.4em KaiTi;
+	margin-bottom:1.6em;
+	color: #dbd2c9;
+}

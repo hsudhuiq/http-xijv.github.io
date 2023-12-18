@@ -1,0 +1,7 @@
+div #images{width:700px;margin:50px auto;}
+div.img {margin:3px; float:left;text-align:center;}
+div.img a img{display:inline; margin:10px; width:650px;
+	height:360px;transition:transform 0.8s;}
+div.img a:hover img{transform:scale(1.05);}
+div.desc{color: #dbd2c9; text-align:center; font:28px 黑体; width:700px;margin:10px 5px 10px 5px;}
+#main{height:3000px;}

@@ -1,0 +1,13 @@
+#main h1{border-bottom:1.5px #D8B26C solid; width:80%; color:#A2754B; 
+	font:45px/1.6em 隶书; margin: 40px }
+.lft_img{ float: left; margin: -15px 40px;}
+.lft_img img{ width: 480px;height: 350px; }
+.rgt_txt{  width: 300px; height: 200px;  float:left;margin: 0px 40px;}
+.rgt_txt p,.lft_txt p{ font:25px/1.4em 隶书;margin-bottom: 1.6em;color: #DBD2C9}
+.rgt_img{ float: right;margin: 0 40px;}
+.rgt_img img{width: 480px;height: 350px;}
+.lft_txt{ width: 300px;height: 200px; float: left ;margin: 0px 40px;}
+.clear{clear: both;}
+a{color: antiquewhite}
+#footer{margin-top: 40px;width: 100%;padding: 0px}
+

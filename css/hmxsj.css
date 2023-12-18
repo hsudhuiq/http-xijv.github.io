@@ -1,0 +1,41 @@
+/* CSS Document */
+#main h1{ 
+	width:94.5%;
+	/*width:128.5%;*/
+	color: #dbd2c9;
+}
+#main h2{
+	background:#D7CCB6;
+	font:28px 楷体;
+	margin:40px 0px;
+	padding:8px 40px;
+}
+#box{
+	position:relative;
+	top:0px;
+	left:0px;
+	padding:0px;
+}
+
+#maintxt{
+	width:950px;
+	height:700px;
+}
+#maintxt ul{
+	margin:30px 0px;
+	list-style:none;
+}
+#maintxt ul li{
+	margin-bottom:50px;
+}
+
+#maintxt p,#maintxt ol li{
+	font:24px/1.8em 楷体;
+	margin-left:40px;
+	color: #dbd2c9;
+}
+
+#sidebar p{
+	margin:0px 20px 20px 40px;
+	line-height:1.2em;
+}*/
